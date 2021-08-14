@@ -1,0 +1,21 @@
+# ninja log v5
+0	345	1628961527383522094	QT_Example_autogen/timestamp	a6de92d82b3a6d1a
+0	345	1628961527383522094	QT_Example_autogen/mocs_compilation.cpp	a6de92d82b3a6d1a
+0	345	1628961527383522094	/home/_3m1s4r10/Documents/Proyectos/CPP_Doxygen/QT_Example/build-QT_Example-Desktop-Debug/QT_Example_autogen/timestamp	a6de92d82b3a6d1a
+0	345	1628961527383522094	/home/_3m1s4r10/Documents/Proyectos/CPP_Doxygen/QT_Example/build-QT_Example-Desktop-Debug/QT_Example_autogen/mocs_compilation.cpp	a6de92d82b3a6d1a
+345	4439	1628961531483522376	CMakeFiles/QT_Example.dir/mainwindow.cpp.o	47d41bf2190d0ac
+345	4450	1628961531493522376	CMakeFiles/QT_Example.dir/main.cpp.o	bad14893c62d9c46
+345	4834	1628961531880189070	CMakeFiles/QT_Example.dir/QT_Example_autogen/mocs_compilation.cpp.o	6843c8b4e65d4bc7
+4834	5283	1628961532330189101	QT_Example	8d1a18f15ffbead5
+1	28	1628961593230193297	QT_Example_autogen/timestamp	a6de92d82b3a6d1a
+1	28	1628961593230193297	QT_Example_autogen/mocs_compilation.cpp	a6de92d82b3a6d1a
+1	28	1628961593230193297	/home/_3m1s4r10/Documents/Proyectos/CPP_Doxygen/QT_Example/build-QT_Example-Desktop-Debug/QT_Example_autogen/timestamp	a6de92d82b3a6d1a
+1	28	1628961593230193297	/home/_3m1s4r10/Documents/Proyectos/CPP_Doxygen/QT_Example/build-QT_Example-Desktop-Debug/QT_Example_autogen/mocs_compilation.cpp	a6de92d82b3a6d1a
+29	2053	1628961595246860101	CMakeFiles/QT_Example.dir/mainwindow.cpp.o	47d41bf2190d0ac
+2053	2490	1628961595690193465	QT_Example	8d1a18f15ffbead5
+2	39	1628961652266864034	QT_Example_autogen/timestamp	a6de92d82b3a6d1a
+2	39	1628961652266864034	QT_Example_autogen/mocs_compilation.cpp	a6de92d82b3a6d1a
+2	39	1628961652266864034	/home/_3m1s4r10/Documents/Proyectos/CPP_Doxygen/QT_Example/build-QT_Example-Desktop-Debug/QT_Example_autogen/timestamp	a6de92d82b3a6d1a
+2	39	1628961652266864034	/home/_3m1s4r10/Documents/Proyectos/CPP_Doxygen/QT_Example/build-QT_Example-Desktop-Debug/QT_Example_autogen/mocs_compilation.cpp	a6de92d82b3a6d1a
+40	2514	1628961654726864203	CMakeFiles/QT_Example.dir/mainwindow.cpp.o	47d41bf2190d0ac
+2514	2949	1628961655170197567	QT_Example	8d1a18f15ffbead5

@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/QT_Example.dir/QT_Example_autogen/mocs_compilation.cpp.o CMakeFiles/QT_Example.dir/main.cpp.o CMakeFiles/QT_Example.dir/mainwindow.cpp.o -o QT_Example  /usr/lib/libQt6Widgets.so.6.1.2 /usr/lib/libQt6Gui.so.6.1.2 /usr/lib/libQt6Core.so.6.1.2 -pthread /usr/lib/libGLX.so /usr/lib/libOpenGL.so 
